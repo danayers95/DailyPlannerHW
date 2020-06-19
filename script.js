@@ -7,7 +7,11 @@ var hour2 = $("#14");
 var hour3 = $("#15");
 var hour4 = $("#16");
 var hour5 = $("#17");
+var hour6 = $("18");
+var hour7 = $("19");
 var time = moment();
+
+
 
 function setPlanner()
 {
