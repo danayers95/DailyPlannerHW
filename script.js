@@ -28,7 +28,6 @@ function setPlanner()
 
 setPlanner();
 var saveBtn = $(".saveBtn");
-
 saveBtn.on("click", function()
 {
     var time = $(this).parent().attr("id");
