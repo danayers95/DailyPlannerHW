@@ -12,7 +12,6 @@ var hour7 = $("19");
 var time = moment();
 
 
-
 function setPlanner()
 {
     
